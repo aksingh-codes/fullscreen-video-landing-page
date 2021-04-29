@@ -45,6 +45,7 @@ h1 {
     overflow: hidden;
     width: 100%;
     height: 100%;
+    background: var(--primary-color) url(images/lft.png) no-repeat center center/cover;
 }
 
 .videocontainer video {
